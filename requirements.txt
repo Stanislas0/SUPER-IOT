@@ -1,0 +1,6 @@
+cleverhans==3.0.1
+opencv_python==4.1.2.30
+Keras==2.2.4
+scikit_image==0.16.2
+numpy==1.19.1
+tensorflow==1.14.0
