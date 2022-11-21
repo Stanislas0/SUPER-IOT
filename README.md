@@ -1,5 +1,5 @@
 # SUPER-IOT
-The official implementation of the following [paper][https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9123371]: 
+The official implementation of the following [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9123371): 
 
 > *Towards Secure and Efﬁcient Deep Learning Inference in Dependable IoT Systems*
 >
